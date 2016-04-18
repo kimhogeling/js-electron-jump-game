@@ -1,2 +1,13 @@
-# js-electron-jump-game
-Little es2015 game created on top of electron. Tried out the object composition approach.
+# what is this?
+
+A little "jump over stuff" game. Written in js (es2015). Thanks to Electron, this game can be played on windows, mac and linux.
+
+# get started
+
+1. download and install the internet: `npm install`
+2. start the game: `npm start` :tada:
+
+# controls
+* any key
+* or click
+* cmd q to quit

@@ -1,0 +1,26 @@
+body {
+    background: #000;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+canvas {
+    display: block;
+    cursor: none;
+    margin: auto;
+    background: #BBDEFB; /* light sky */
+    /*box-shadow: inset 0 0 10px #000, inset 0 -70px 0 #4CAF50;*/
+    /*box-shadow: inset 0 0 15px 2px #000, inset 0 -70px 2px #4CAF50, inset 0 40px 2px #00BCD4;*/
+    /*
+    black border
+    dark grass
+    light grass
+    dark sky
+    */
+    box-shadow: inset 0 0 15px 2px #000,
+                inset 0 -80px 50px -30px #2E7D32,
+                inset 0 -73px 2px -2px #8BC34A,
+                inset 0 50px 50px -30px #03A9F4;
+    will-change: transform;
+}
