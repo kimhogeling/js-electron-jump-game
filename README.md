@@ -1,6 +1,6 @@
 # what is this?
 
-A little "jump over stuff" game. Written in js (es2015). Thanks to Electron, this game can be played on windows, mac and linux.
+A little "jump over stuff" game. Written in js (es2015). Thanks to Electron, this game can be played on windows, mac and linux. I tried out the object composition approach and I like it!
 
 # get started
 
